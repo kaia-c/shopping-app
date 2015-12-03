@@ -1,2 +1,2 @@
-# shopping-app
-Simple secure shopping app
+# PHP class
+Simple cart app demo 
